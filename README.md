@@ -1,3 +1,3 @@
 # hello-world
 
-I'm Shaun and playing with git
+I'm Shaun and playing with git..
